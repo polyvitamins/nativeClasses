@@ -1,0 +1,22 @@
+{
+  "name": "nativeClasses",
+  "repository": "http://github.com/polyvitamins/s-charge-class",
+  "description": "Native classes list",
+  "version": "0.0.1",
+  "keywords": ["native classes"],
+  "main": [
+    "dist/nativeClasses.js"
+  ],
+  "dependencies": {
+    },
+  "scripts": [
+    "src/nativeClasses.js"
+  ],
+  "license": "MIT",
+  "remotes": [
+    "github"
+  ],
+  "tags": [
+    "amd"
+  ]
+}
